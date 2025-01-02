@@ -63,7 +63,7 @@ const BlogPage: React.FC = () => {
       <header className="bg-white shadow-md sticky top-0 z-50">
         <div className="container mx-auto px-6 py-4 flex justify-between items-center">
           <h1 className="text-3xl font-bold text-primary">
-            AN<span className="text-red-500">Blog</span>
+            AF<span className="text-red-500">Blog</span>
           </h1>
           <nav className="hidden md:block">
             <ul className="flex space-x-6">
